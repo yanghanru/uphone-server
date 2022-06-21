@@ -9,7 +9,7 @@
     * [服务器配置](/uphone-server/price.md#云手机服务器)
     * [创建云手机服务器](/uphone-server/guide.md#创建云手机服务器)
     * [自制手机镜像](/uphone-server/guide.md#自制镜像)
-    * [产品计费](/uphone-server/price.md#计费模式)
+    * [产品计费](/uphone-server/price.md#产品计费)
       
 * 常见问题
   * [功能相关](/uphone-server/FAQ.md#功能相关)
