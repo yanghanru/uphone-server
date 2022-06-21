@@ -30,7 +30,7 @@
       * [导入SDK包](/uphone-server/sdk.md#导入SDK包)
       * [代码混淆](/uphone-server/sdk.md#代码混淆) 
    * 快速入门
-      * [注册云手机状态监听器](/uphone-server-server/sdk.md#注册云手机状态监听器)   
+      * [注册云手机状态监听器](/uphone-server/sdk.md#注册云手机状态监听器)   
       * [初始化云手机sdk](/uphone-server/sdk.md#初始化云手机sdk)
       * [连接云手机](/uphone-server/sdk.md#连接UPhone)
       * [断开云手机](/uphone-server/sdk.md#断开UPhone)
