@@ -3,19 +3,9 @@
    * [什么是云手机](/uphone/_whatUphone.md)
    * [功能与优势](/uphone/_function.md)
    * [应用场景](/uphone/_application.md)
-
-* UPhone产品
-    * [注册账号](/uphone/guide.md#注册账号)
-    * [创建云手机](/uphone/guide.md#创建云手机)
-    * [独立IP与共享带宽](/uphone/guide.md#独立公网IP)
-    * [群控管理](/uphone/guide.md#群控管理)
-    * [文件上传](/uphone/guide.md#文件上传)
-    * [一键新机](/uphone/guide.md#一键新机)
-    * [开关ROOT](/uphone/guide.md#开关ROOT)
-    * [设置GPS](/uphone/guide.md#设置GPS)
-    * [产品计费](/uphone/price-uphone.md#产品计费)
     
 * UPhoneServer产品 
+    * [群控管理](/uphone/guide.md#群控管理)
     * [服务器配置](/uphone/price.md#云手机服务器)
     * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
     * [自制手机镜像](/uphone/guide.md#自制镜像)
