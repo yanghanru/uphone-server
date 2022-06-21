@@ -12,7 +12,6 @@
 ### 快速上手
   * [注册账号](/uphone/guide.md#注册账号)
   * [快速测试](/uphone/guide.md#快速测试)
-  * [创建云手机](/uphone/guide.md#创建云手机)
   * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
   * [群控管理](/uphone/guide.md#群控管理)
   * [文件上传](/uphone/guide.md#文件上传)
