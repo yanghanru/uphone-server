@@ -4,8 +4,7 @@
    * [功能与优势](/uphone-server/function.md)
    * [应用场景](/uphone-server/application.md)
     
-* UPhoneServer
-    * [群控管理](/uphone-server/guide.md#群控管理) 
+* 群控管理
     * [文件上传](/uphone-server/guide.md#文件上传)
     * [一键新机](/uphone-server/guide.md#一键新机)
     * [开关ROOT](/uphone-server/guide.md#开关ROOT)
