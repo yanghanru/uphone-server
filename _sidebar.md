@@ -1,4 +1,4 @@
-* [概览](/uphone/README.md)
+* [概览](/uphone-server/README.md)
 * 产品介绍   <!-- 以下是参考的目录模版，旨在建议产品文档应该包含的内容模块。实际章节划分可根据实际内容进行调整 -->
    * [什么是云手机](/uphone-server/whatUphone.md)
    * [功能与优势](/uphone-server/function.md)
@@ -23,7 +23,7 @@
 * 管理API
   * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
   * [API SDK](https://cms-docs.ucloudadmin.com/tools)
-  * [AOSP高阶功能](/uphone/_sysapplication.md)
+  * [AOSP高阶功能](/uphone-server/_sysapplication.md)
 
 * 客户端SDK
 
