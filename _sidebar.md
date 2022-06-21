@@ -4,7 +4,7 @@
    * [功能与优势](/uphone/_function.md)
    * [应用场景](/uphone/_application.md)
     
-* UPhoneServer产品 
+* UPhoneServer
     * [群控管理](/uphone/guide.md#群控管理)
     * [服务器配置](/uphone/price.md#云手机服务器)
     * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
