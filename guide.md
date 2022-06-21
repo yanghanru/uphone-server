@@ -8,7 +8,7 @@
 ### 创建云手机服务器
  ![img](images/signin2.png)
  ![img](images/signin3.png)
-### 群控管理
+
 ### 文件上传
 #### 1.选择需要上传文件的云手机
  ![img](images/QK1.png)
