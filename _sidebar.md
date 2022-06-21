@@ -5,7 +5,7 @@
    * [应用场景](/uphone-server/application.md)
    * [服务器配置](/uphone-server/price.md#云手机服务器)
    * [创建云手机服务器](/uphone-server/guide.md#创建云手机服务器)
-   * [自制手机镜像](/uphone-server/guide.md#自制镜像)
+   * [自制镜像](/uphone-server/guide.md#自制镜像)
    * [产品计费](/uphone-server/price.md#产品计费)
     
 * 群控管理
