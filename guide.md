@@ -5,9 +5,6 @@
   华北一面向国内云手机场景；广州主要面向非大陆的云手机场景，同时也支持国内场景；
   独立IP和共享带宽为可选项，不选的话也可以使用但用的是服务器IP，选中后可以用于云手机防关联和实现云手机模拟异地；
  
-### 创建云手机
- ![img](images/con-up.jpg)
- ![img](images/uphone.jpg)
 ### 创建云手机服务器
  ![img](images/signin2.png)
  ![img](images/signin3.png)
