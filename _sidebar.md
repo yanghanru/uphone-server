@@ -23,7 +23,7 @@
 * 管理API
   * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
   * [API SDK](https://cms-docs.ucloudadmin.com/tools)
-  * [AOSP高阶功能](/uphone-server/_sysapplication.md)
+  * [AOSP高阶功能](/uphone-server/sysapplication.md)
 
 * 客户端SDK
 
