@@ -8,8 +8,8 @@
    * [产品计费](/uphone-server/price.md#计费模式)
     
 * 群控管理
-    * [文件上传](/uphone-server/guide.md#文件上传)
-    * [一键新机](/uphone-server/guide.md#一键新机)
+    * [文件上传](/uphone-server/guide.md#选择需要上传文件的云手机)
+    * [一键新机](/uphone-server/guide.md#通过一键新机)
     * [开关ROOT](/uphone-server/guide.md#开关ROOT)
     * [设置GPS](/uphone-server/guide.md#设置GPS)
 * 自制镜像
