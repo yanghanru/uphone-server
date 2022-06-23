@@ -10,8 +10,8 @@
 * 群控管理
     * [文件上传](/uphone-server/guide.md#选择需要上传文件的云手机)
     * [一键新机](/uphone-server/guide.md#通过一键新机)
-    * [开关ROOT](/uphone-server/guide.md#开关ROOT)
-    * [设置GPS](/uphone-server/guide.md#设置GPS)
+    * [开关ROOT](/uphone-server/guide.md#开启或关闭云手机root)
+    * [设置GPS](/uphone-server/guide.md#设置云手机GPS信息)
 * 自制镜像
     * [自制镜像](/uphone-server/guide.md#自制镜像)
       
