@@ -6,6 +6,7 @@
    * [服务器配置](/uphone-server/price.md#云手机服务器)
    * [创建云手机服务器](/uphone-server/guide.md#创建云手机服务器)
    * [产品计费](/uphone-server/price.md#计费模式)
+   * [购买体验](https://console.ucloud.cn/uphone/server)
     
 * 群控管理
     * [文件上传](/uphone-server/guide.md#选择需要上传文件的云手机)
