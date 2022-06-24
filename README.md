@@ -13,6 +13,7 @@
   * [注册账号](/uphone-server/guide.md#注册账号)
   * [快速测试](/uphone-server/guide.md#快速测试)
   * [创建云手机服务器](/uphone-server/guide.md#创建云手机服务器)
+  * [购买体验](https://console.ucloud.cn/uphone/server)
   * [群控管理](/uphone-server/guide.md#群控管理)
   * [文件上传](/uphone-server/guide.md#文件上传)
   * [自制镜像](/uphone-server/guide.md#自制镜像)
