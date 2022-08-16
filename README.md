@@ -42,16 +42,11 @@ iOS SDK
   * [接口说明](/uphone-server/ios_sdk.md#接口说明)
   * [注意事项](/uphone-server/ios_sdk.md#注意事项)
 
-H5 SDK
+ JS SDK
   * [SDK下载](/uphone-server/h5-sdk.md#SDK下载)
   * [快速入门](/uphone-server/h5-sdk.md#快速入门)
   * [接口说明](/uphone-server/h5-sdk.md#接口说明)
   * [错误码表](/uphone-server/h5-sdk.md#常见错误码)
-
-Web SDK
-  * [SDK下载](/uphone/web-sdk.md#SDK下载)
-  * [快速入门](/uphone/web-sdk.md#快速入门)
-  * [接口说明](/uphone/web-sdk.md#接口说明)
  
  ### 其他
   * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
