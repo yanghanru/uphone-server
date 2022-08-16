@@ -42,7 +42,7 @@ iOS SDK
   * [接口说明](/uphone-server/ios_sdk.md#接口说明)
   * [注意事项](/uphone-server/ios_sdk.md#注意事项)
 
-H5 SDK
+JS SDK
   * [SDK下载](/uphone-server/h5-sdk.md#SDK下载)
   * [快速入门](/uphone-server/h5-sdk.md#快速入门)
   * [接口说明](/uphone-server/h5-sdk.md#接口说明)
