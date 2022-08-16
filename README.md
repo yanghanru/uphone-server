@@ -48,11 +48,7 @@ H5 SDK
   * [接口说明](/uphone-server/h5-sdk.md#接口说明)
   * [错误码表](/uphone-server/h5-sdk.md#常见错误码)
 
-Web SDK
-  * [SDK下载](/uphone/web-sdk.md#SDK下载)
-  * [快速入门](/uphone/web-sdk.md#快速入门)
-  * [接口说明](/uphone/web-sdk.md#接口说明)
- 
+
  ### 其他
   * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
   * [API SDK](https://cms-docs.ucloudadmin.com/tools)
